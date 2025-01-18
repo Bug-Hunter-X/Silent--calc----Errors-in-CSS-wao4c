@@ -1,0 +1,6 @@
+/* solution.css */
+
+#myElement {
+  width: calc(100% - 50px);
+  /* Corrected syntax: Correct operator and operand */
+}
